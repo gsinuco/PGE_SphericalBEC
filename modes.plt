@@ -1,0 +1,1 @@
+plot "PGPEonSphere_cmodes3_psi.dat" u 1:2
